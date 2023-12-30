@@ -1,0 +1,2 @@
+# plugwise-generic
+Generic Repository
